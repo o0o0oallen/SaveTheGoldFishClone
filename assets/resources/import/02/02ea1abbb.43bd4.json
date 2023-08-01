@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"moveBar","texture":"99zkWPrLFDv77NZCo+dBWw","rect":[0,0,230,65],"offset":[0,0],"originalSize":[230,65],"capInsets":[26,10,31,8]}},{"__type__":"cc.SpriteFrame","content":{"name":"barBg","texture":"f4W7s3de1HybfA+0RRL3a+","rect":[0,0,427,66],"offset":[0,0],"originalSize":[427,66],"capInsets":[25,11,22,11]}}]
