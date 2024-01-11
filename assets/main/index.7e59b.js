@@ -2071,7 +2071,8 @@ window.__require = (function t(e, o, i) {
 											u.default.showLog('\u64ad\u653e\u6fc0\u52b1\u89c6\u9891\u5e7f\u544a: \u6210\u529f'),
 											e._videoCallback &&
 											(e._videoCallback(!0, ''),
-												(e._videoCallback = null))
+												(e._videoCallback = null)),
+													u.default.showLog("show reward here");
 											/*MiniGameAds.isRewardvideoReady() ?
 											MiniGameAds.showRewardedVideo()
 											.then(function() {
