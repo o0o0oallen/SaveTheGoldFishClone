@@ -2072,7 +2072,7 @@ window.__require = (function t(e, o, i) {
 											e._videoCallback &&
 											(e._videoCallback(!0, ''),
 												(e._videoCallback = null)),
-													u.default.showLog("show reward here")
+													/*u.default.showLog("show reward here")*/
 											/*MiniGameAds.isRewardvideoReady() ?
 											MiniGameAds.showRewardedVideo()
 											.then(function() {
